@@ -1,8 +1,7 @@
 # PHYSICAL_DESIGN
 
 
-````md
-# OpenLane Physical Design – PicoRV32A
+# Openlne Physical Design – PicoRV32A
 
 This project demonstrates the **RTL-to-GDSII ASIC physical design flow** using the **PicoRV32A RISC-V processor**, **OpenLane**, and the **Sky130 PDK**.
 
